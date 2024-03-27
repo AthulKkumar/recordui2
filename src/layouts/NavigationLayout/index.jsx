@@ -14,7 +14,7 @@ const NavigationLayout = () => {
   return (
     <div className="d-flex min-vh-100">
       <nav
-        className="d-flex flex-column justify-content-between align-items-baseline p-1 "
+        className="d-flex flex-column justify-content-between align-items-baseline p-1 border-end"
         style={{
           background: "rgba(251, 251, 251, 1)",
           position: "sticky",
